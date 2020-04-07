@@ -20,7 +20,7 @@ while i < 5:
    
 print ("For Loop")
 for i in range(0,5):
-   print ("Rose")
+   print ("Hannah")
    
 value = int(input("please enter a value to count towards: "))
 
